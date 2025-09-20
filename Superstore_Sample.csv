@@ -1,0 +1,151 @@
+Order ID,Order Date,Region,Category,Sales,Quantity
+ORD-1000,2020-04-12,West,Furniture,493,2
+ORD-1001,2021-03-11,East,Office Supplies,662,3
+ORD-1002,2020-09-27,West,Furniture,313,9
+ORD-1003,2020-04-16,East,Office Supplies,102,7
+ORD-1004,2020-03-12,East,Furniture,621,4
+ORD-1005,2020-01-21,West,Furniture,669,5
+ORD-1006,2021-09-06,South,Technology,54,2
+ORD-1007,2020-05-01,South,Technology,152,8
+ORD-1008,2021-04-11,South,Furniture,245,4
+ORD-1009,2020-08-02,South,Furniture,823,9
+ORD-1010,2020-11-26,South,Technology,926,5
+ORD-1011,2021-04-03,West,Technology,933,9
+ORD-1012,2020-03-28,West,Technology,399,4
+ORD-1013,2021-01-07,Central,Office Supplies,96,5
+ORD-1014,2020-04-09,South,Furniture,916,9
+ORD-1015,2021-10-25,West,Technology,872,8
+ORD-1016,2020-05-10,Central,Furniture,985,3
+ORD-1017,2021-10-23,South,Office Supplies,869,1
+ORD-1018,2020-11-04,East,Office Supplies,705,3
+ORD-1019,2020-12-09,Central,Technology,318,4
+ORD-1020,2021-05-06,West,Office Supplies,419,2
+ORD-1021,2021-02-17,East,Furniture,685,1
+ORD-1022,2021-01-20,East,Technology,155,7
+ORD-1023,2020-07-10,East,Furniture,719,8
+ORD-1024,2020-10-03,Central,Furniture,708,7
+ORD-1025,2020-06-09,West,Office Supplies,706,5
+ORD-1026,2021-04-04,East,Office Supplies,169,1
+ORD-1027,2020-11-09,South,Office Supplies,880,7
+ORD-1028,2020-01-22,East,Office Supplies,836,7
+ORD-1029,2020-09-09,East,Office Supplies,653,9
+ORD-1030,2021-07-14,Central,Technology,107,3
+ORD-1031,2021-04-19,Central,Furniture,395,9
+ORD-1032,2020-02-28,West,Furniture,790,1
+ORD-1033,2021-05-25,South,Furniture,523,1
+ORD-1034,2021-11-12,Central,Furniture,166,4
+ORD-1035,2021-04-20,East,Office Supplies,879,9
+ORD-1036,2021-11-30,West,Furniture,840,6
+ORD-1037,2020-07-08,East,Technology,176,3
+ORD-1038,2021-11-17,East,Technology,442,1
+ORD-1039,2021-07-16,Central,Furniture,957,4
+ORD-1040,2021-07-20,West,Furniture,690,9
+ORD-1041,2020-08-31,South,Technology,107,3
+ORD-1042,2021-05-19,South,Technology,683,9
+ORD-1043,2020-05-10,Central,Office Supplies,562,7
+ORD-1044,2021-04-29,Central,Technology,800,4
+ORD-1045,2021-10-08,West,Office Supplies,851,3
+ORD-1046,2020-01-21,South,Office Supplies,145,5
+ORD-1047,2020-06-15,South,Office Supplies,687,5
+ORD-1048,2020-09-30,South,Office Supplies,167,3
+ORD-1049,2021-01-22,East,Office Supplies,609,9
+ORD-1050,2021-08-23,South,Furniture,650,4
+ORD-1051,2020-11-11,East,Technology,537,5
+ORD-1052,2020-01-14,West,Office Supplies,286,4
+ORD-1053,2020-08-29,East,Technology,934,5
+ORD-1054,2020-12-11,West,Technology,946,7
+ORD-1055,2021-07-18,South,Office Supplies,321,9
+ORD-1056,2020-12-05,South,Furniture,238,7
+ORD-1057,2020-04-01,West,Office Supplies,753,5
+ORD-1058,2021-01-01,Central,Furniture,496,7
+ORD-1059,2021-03-30,West,Technology,630,5
+ORD-1060,2021-03-03,Central,Furniture,839,3
+ORD-1061,2021-05-23,East,Furniture,910,7
+ORD-1062,2020-02-04,East,Furniture,296,2
+ORD-1063,2020-07-24,East,Technology,125,9
+ORD-1064,2020-03-21,South,Technology,203,1
+ORD-1065,2021-07-15,East,Furniture,705,6
+ORD-1066,2021-01-22,Central,Furniture,484,7
+ORD-1067,2020-01-02,East,Office Supplies,135,8
+ORD-1068,2021-01-24,West,Furniture,746,9
+ORD-1069,2021-07-19,West,Office Supplies,334,2
+ORD-1070,2020-04-15,South,Furniture,269,2
+ORD-1071,2021-04-21,West,Office Supplies,118,5
+ORD-1072,2021-02-05,Central,Technology,96,5
+ORD-1073,2021-07-09,East,Furniture,143,6
+ORD-1074,2020-06-10,South,Furniture,799,3
+ORD-1075,2020-07-20,East,Furniture,502,8
+ORD-1076,2020-09-26,East,Furniture,253,1
+ORD-1077,2020-09-27,Central,Office Supplies,961,6
+ORD-1078,2021-03-31,West,Furniture,267,4
+ORD-1079,2021-04-06,West,Technology,523,1
+ORD-1080,2020-09-08,East,Technology,481,7
+ORD-1081,2020-10-22,South,Furniture,390,9
+ORD-1082,2020-12-03,West,Technology,600,4
+ORD-1083,2020-02-22,South,Furniture,661,4
+ORD-1084,2020-08-04,West,Furniture,338,6
+ORD-1085,2020-07-06,South,Technology,303,3
+ORD-1086,2021-01-14,Central,Furniture,783,6
+ORD-1087,2021-05-07,South,Technology,406,7
+ORD-1088,2020-02-10,Central,Office Supplies,72,3
+ORD-1089,2020-06-05,Central,Furniture,811,7
+ORD-1090,2020-01-15,South,Office Supplies,571,3
+ORD-1091,2020-03-05,Central,Technology,807,2
+ORD-1092,2021-06-04,East,Office Supplies,886,4
+ORD-1093,2020-12-09,Central,Office Supplies,149,8
+ORD-1094,2020-05-08,West,Technology,851,9
+ORD-1095,2021-10-09,South,Office Supplies,229,7
+ORD-1096,2021-04-16,East,Office Supplies,272,1
+ORD-1097,2020-03-03,South,Technology,955,3
+ORD-1098,2020-05-18,West,Office Supplies,811,9
+ORD-1099,2021-05-13,West,Technology,708,1
+ORD-1100,2021-08-15,West,Office Supplies,491,9
+ORD-1101,2021-01-26,Central,Technology,657,8
+ORD-1102,2021-11-05,Central,Technology,818,1
+ORD-1103,2021-02-22,South,Office Supplies,374,6
+ORD-1104,2020-10-15,South,Office Supplies,565,5
+ORD-1105,2021-01-13,East,Office Supplies,65,6
+ORD-1106,2021-05-04,East,Furniture,841,5
+ORD-1107,2020-08-18,South,Furniture,385,6
+ORD-1108,2020-02-10,Central,Furniture,808,5
+ORD-1109,2020-01-28,West,Technology,307,5
+ORD-1110,2020-05-14,South,Office Supplies,546,4
+ORD-1111,2020-07-19,East,Technology,945,3
+ORD-1112,2020-02-02,Central,Furniture,209,3
+ORD-1113,2020-02-17,South,Office Supplies,524,4
+ORD-1114,2021-05-17,South,Technology,901,9
+ORD-1115,2021-02-10,Central,Office Supplies,713,2
+ORD-1116,2021-07-27,South,Technology,957,9
+ORD-1117,2020-04-08,Central,Office Supplies,739,1
+ORD-1118,2021-11-14,West,Furniture,724,1
+ORD-1119,2021-06-30,Central,Furniture,429,5
+ORD-1120,2021-09-04,Central,Office Supplies,594,6
+ORD-1121,2021-04-06,Central,Technology,978,6
+ORD-1122,2021-10-04,South,Furniture,740,3
+ORD-1123,2020-01-05,South,Furniture,476,7
+ORD-1124,2020-08-05,Central,Furniture,662,9
+ORD-1125,2021-05-17,South,Office Supplies,317,8
+ORD-1126,2021-02-01,East,Office Supplies,884,6
+ORD-1127,2021-01-27,East,Technology,626,8
+ORD-1128,2020-07-25,South,Technology,466,5
+ORD-1129,2020-01-15,South,Technology,217,8
+ORD-1130,2021-07-07,Central,Office Supplies,891,4
+ORD-1131,2021-04-05,West,Office Supplies,92,8
+ORD-1132,2021-11-21,South,Technology,605,2
+ORD-1133,2021-07-28,East,Technology,334,5
+ORD-1134,2020-08-28,Central,Office Supplies,446,9
+ORD-1135,2021-07-17,South,Technology,61,4
+ORD-1136,2020-04-05,East,Furniture,656,6
+ORD-1137,2021-04-29,East,Office Supplies,351,1
+ORD-1138,2021-02-10,West,Technology,947,9
+ORD-1139,2020-08-18,Central,Office Supplies,302,1
+ORD-1140,2021-10-16,Central,Furniture,548,5
+ORD-1141,2020-06-19,West,Office Supplies,803,4
+ORD-1142,2021-06-24,West,Office Supplies,84,3
+ORD-1143,2020-02-05,Central,Office Supplies,776,6
+ORD-1144,2021-06-08,Central,Office Supplies,898,2
+ORD-1145,2020-06-08,South,Furniture,139,3
+ORD-1146,2021-11-29,South,Office Supplies,825,5
+ORD-1147,2020-08-30,West,Office Supplies,654,9
+ORD-1148,2020-03-26,South,Technology,971,2
+ORD-1149,2021-07-31,East,Office Supplies,651,8
